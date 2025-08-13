@@ -31,7 +31,7 @@ A vector search engine based on Firebase Functions v2, utilizing OpenAI embeddin
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/firebase-video-search.git
+   git clone https://github.com/Hawon-Oh/firebase-video-search.git
    cd firebase-video-search
    ```
 
